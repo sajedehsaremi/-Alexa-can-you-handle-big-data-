@@ -96,27 +96,6 @@ findspark.init()
 ```python
 !wget https://jdbc.postgresql.org/download/postgresql-42.2.9.jar
 ```
-
-- - -
-
-## Submission
-
-* **Important** be sure to clean up all your AWS resources. Consult the [AWS cleanup guide](../Resources/AWS_cleanup.pdf) and [AWS check billing guide](../Resources/AWS_check_billing.pdf) as reference.
-
-* Download you Google Colab notebooks as `.ipynb` files and upload those to GitHub.
-
-* Copy your SQL queries into `.sql` files and upload to GitHub.
-
-* **Important:** Do not upload notebooks that contain your RDS password and endpoint. Be sure to delete them before making your notebook public!
-
-* Ensure your repository has regular commits and a thorough README.md file
-
-## Rubric
-
-[Unit 22 Rubric - Big Data Homework - "Alexa, can you handle big data?"](https://docs.google.com/document/d/1H-TBgBUz1jVGG1zvo046GraApmbepVZgYionh-4mNas/edit?usp=sharing)
-
-- - -
-
 ## References
 
 Amazon customer Reviews Dataset. (n.d.). Retrieved April 08, 2021, from: [https://s3.amazonaws.com/amazon-reviews-pds/readme.html](https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
