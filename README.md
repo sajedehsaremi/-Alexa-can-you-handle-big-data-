@@ -1,17 +1,4 @@
-# Big Data Homework - "Alexa, can you handle big data?"
-
-### Before You Begin
-
-1. Create a new repository for this project called `big-data-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the level of challenge Challenge you choose. Use folder names corresponding to the challenges: **level-1** or  **level-2**.
-
-4. Download a Google Colab Notebook as a `ipynb` file and add it to this folder. This will be the main script to run for analysis. Be sure to also add any SQL queries you used to a `.sql` file and add it to your repo.
-
-5. Push the above changes to GitHub or GitLab.
-
+# Big Data - "Alexa, can you handle big data?"
 
 ## Background
 
